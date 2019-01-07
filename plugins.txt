@@ -17,6 +17,7 @@ parameterized-trigger
 publish-over-ssh
 rebuild
 sidebar-link
+ssh-agent
 subversion
 warnings
 workflow-aggregator
